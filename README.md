@@ -1,6 +1,10 @@
 # MyInternshipProjects
 These are the tasks given for the internship at MotionCut.
 
+Week 1 Task: Business Website Development
+This week, we have an exciting project lined up for you: developing a professional website for a small business.
+
+
 Project Details:
 Task 2- Registration Form.
 1. Form Structure: Design the structure of the registration form, which should include fields for user information such as name, email, username, password, and any additional details you choose.
