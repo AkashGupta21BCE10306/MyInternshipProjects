@@ -14,7 +14,7 @@ Task 2- Registration Form.
 5. Submission: Allow users to submit their registration information.
 6. Confirmation Page: Design a confirmation page or message to acknowledge successful registration.
 
-Task 2- Task is to design a visually appealing blog theme.
+Task 3- Task is to design a visually appealing blog theme.
 
 Project Details:
 
@@ -26,3 +26,5 @@ Project Details:
 
 🎨 Color Scheme: Design a harmonious color scheme that suits the blog's theme. Consider color psychology for an engaging user experience.
 
+Week 4 task-
+This project will introduce you to working with images and implementing interactivity.
